@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H_w#4Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example">Example</string>
+    <string name="capital">Capital</string>
+</resources>
